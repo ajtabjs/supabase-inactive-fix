@@ -2,7 +2,7 @@
   {
     "name": "chat",
     "supabase_url": "https://tnobwofuwfmeudhevcwl.supabase.co",
-    "supabase_key_env": "SUPABASE_KEY",
+    "supabase_key_env": "SUPABASE_KEY_1",
     "table_name": "keep-alive"
   }
 ]
